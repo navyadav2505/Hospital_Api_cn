@@ -16,6 +16,8 @@ return the patient info in the API)
 - Can be either of: [Negative, Travelled-Quarantine, Symptoms-Quarantine,
 Positive-Admit]
 
+-hostlink https://enchanting-cuff-dog.cyclic.app/
+
 - Date
 
 # Instructions about SetUp:
